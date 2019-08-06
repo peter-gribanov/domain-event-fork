@@ -33,7 +33,7 @@
         "symfony/dependency-injection": "~2.3|~3.0|~4.0",
         "symfony/serializer": "~2.3|~3.0|~4.0",
         "predis/predis": "~1.0|~1.1",
-        "superbalist/php-pubsub-redis": "~2.0",
+        "superbalist/php-pubsub-redis": "~1.0|~2.0",
         "phpunit/phpunit": "4.8.*",
         "scrutinizer/ocular": "~1.5",
         "satooshi/php-coveralls": "^2.0"
